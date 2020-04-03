@@ -1,0 +1,27 @@
+{
+  "name": "random-names-mx",
+  "version": "1.0.0",
+  "description": "This package is a simple random list of popular names from Mexico.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "generator"
+  ],
+  "author": "Ismael López <lc.ismael@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-name": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaeldevmw/npm-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ismaeldevmw/npm-random-names/issues"
+  },
+  "homepage": "https://github.com/ismaeldevmw/npm-random-names#readme"
+}
